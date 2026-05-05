@@ -21,8 +21,8 @@ background-color:rgb(119, 206, 127);
 }
 
 li{
-    display: inline-block;
-    width: 50px;
+    display: inline;
+    width: 100px;
 }
 
 h1{
